@@ -1,8 +1,10 @@
 # SimpleFOCMini v2.3
 This is a miniature BLDC driver board based on the DRV8316 driver intended to be used with the SimpleFOC library.
 
+📢 NEW: This board is now available in our collaboration with **Makerfabs**: [See more on makerfabs.com](https://www.makerfabs.com/simplefocmini.html)
 
 <img height="200px" src="./images/side_real.jpg"  /><img height="200px" src="./images/top.png" /><img height="200px" src="./images/bottom.png"  />
+
 
 <img height="300px" src="./images/schema.png" align="right"/>
 
@@ -23,8 +25,9 @@ This is a miniature BLDC driver board based on the DRV8316 driver intended to be
 - Small size 24x25 mm
 - Fully compatible with the *Simple**FOC**library*
 - Fully open-source: [EasyEDA link](https://oshwlab.com/the.skuric/simplefocmini_copy_copy)
-- Low-cost: JLCPCB production cost ~5€
-- *Will be available for purchase on **Makerfabs** soon!*
+- Low-cost:
+  - JLCPCB production cost ~5€
+  - Available through [Makerfabs.com](https://www.makerfabs.com/simplefocmini.html)
 
 
 ## New features in v2+
